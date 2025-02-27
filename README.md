@@ -1,4 +1,4 @@
-# Política de Privacidad de Koyo
+# Política de Privacidad de Shantal
 
 La presente Política de Privacidad establece los términos en que **Koyo** usa y protege la información que es proporcionada por sus usuarios al momento de utilizar sus servicios como por ejemplo:
 
