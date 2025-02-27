@@ -1,6 +1,6 @@
 # Política de Privacidad de Shantal
 
-La presente Política de Privacidad establece los términos en que **Koyo** usa y protege la información que es proporcionada por sus usuarios al momento de utilizar sus servicios como por ejemplo:
+La presente Política de Privacidad establece los términos en que **Shantal** usa y protege la información que es proporcionada por sus usuarios al momento de utilizar sus servicios como por ejemplo:
 
 1. Tendremos acceso a sacar el bot de tu servidor si le das mal uso al mismo.
 
